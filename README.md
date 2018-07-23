@@ -2,13 +2,15 @@
 Some projects from Cold Steele's Web Developer Bootcamp
 
 ## scoreKeeper
-Code along to create a simple counter in vanilla JS with buttons for player 1, player 2, reset. 
+Jul 2018  web developer bootcamp udemy course JS code-along
+
+Create a simple counter in vanilla JS with buttons for player 1, player 2, reset. 
 Default number of games is 5, but this can be adjusted using the dropdown box. When either player's 
 score hits the end number, the counter is frozen, and the winner's value turns green. 
 Pressing reset resets scores. Changing the value of number of rounds also causes a reset.
 
 ## colorGame
-Aug 2018  web developer bootcamp udemy course JS code-along
+Jul 2018  web developer bootcamp udemy course JS code-along
 
 Create a game where the user is given a RGB value and has to guess from a given set of displayed colors which is correct. Two levels are available, easy (3 choices) or hard (6 choices). User has the choice to reset the colors/play again.
 
