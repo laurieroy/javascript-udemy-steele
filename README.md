@@ -24,3 +24,8 @@ Jul 2018 web developer bootcamp udemy course JS code-along
 Create a resposive todo lis.Practice using jQuery, CSS
 Use font-awesome icons for del & hide form buttons. Button: Add New Todo. Text color changes to let user know they are editing, item is added by a enter keystroke, added to bottom of list.
 List of Todos: user can line through or delete item. When hovering on an item, a red bg trash icon delete button appears on left, deleting fades out then removes item from list If user clicks on the text itself, text, class changes to completed, changing text color and style to line-through.
+
+## RESTful Blog
+Jul 2018 web developer bootcamp udemy course JS code-along
+
+Create a sample blog using RESTful routing in express
