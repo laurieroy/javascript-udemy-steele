@@ -1,5 +1,5 @@
 # javascript-udemy
-Some projects from Colt Steele's Web Developer Bootcamp
+Some projects from Colt Steele's Web Developer Bootcamp. I am working on putting some of these up on heroku
 
 ## scoreKeeper
 Jul 2018  web developer bootcamp udemy course JS code-along
@@ -29,3 +29,6 @@ List of Todos: user can line through or delete item. When hovering on an item, a
 Jul 2018 web developer bootcamp udemy course JS code-along
 
 Create a sample blog using RESTful routing in express
+
+## [CampReview](../../../CampReview)
+Aug-Oct 2018 web developer bootcamp udemy course JS code-along(YelpCamp) with some extras thrown on
